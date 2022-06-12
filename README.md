@@ -7,7 +7,10 @@ The purpose of this project is to create a website that allows users to search a
 
 ## Results: 
 
+![header](./Resources/Header.png)
+
 The website/dashboard is designed to be easy to use, and modern internet users should intuitively know how to use the dashboard and filter the results. After scrolling down past the header and short introductory text on UFO sightings, the user arrives at the interactive table. In it's default state, all the contents of the table are shown, the top of which looks like the picture below.
+
 
 ![default_table](./Resources/default_table.png)
 
